@@ -1,5 +1,3 @@
-# Practica1
-
 # Práctica 1 - Programación Paralela y Concurrente
 
 ## Descripción
